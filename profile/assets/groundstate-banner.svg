@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="520" viewBox="0 0 1800 520" role="img" aria-labelledby="title desc">
+  <title id="title">GROUNDSTATE — intelligence under real-world constraints</title>
+  <desc id="desc">A scientific notebook diagram connects energy, networks, body, workflow and order.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#e8e0d0" stroke-opacity=".045"/></pattern>
+    <linearGradient id="line"><stop stop-color="#c2aa7d"/><stop offset="1" stop-color="#75a7a3"/></linearGradient>
+  </defs>
+  <rect width="1800" height="520" rx="0" fill="#101618"/>
+  <rect width="1800" height="520" fill="url(#grid)"/>
+  <path d="M70 82H1730M70 432H1730" stroke="#cfc5ae" stroke-opacity=".25"/>
+  <g fill="#aaa99f" font-family="monospace" font-size="16" letter-spacing="3">
+    <text x="72" y="56">FIELD NOTES / 001</text><text x="1398" y="56">OPEN RESEARCH</text>
+  </g>
+  <text x="66" y="231" fill="#f0ebe1" font-family="Arial,Helvetica,sans-serif" font-size="144" font-weight="700" letter-spacing="-7">GROUNDSTATE</text>
+  <text x="75" y="288" fill="#b7b6ac" font-family="Arial,Helvetica,sans-serif" font-size="24" letter-spacing="2">INTELLIGENCE, GROUNDED IN THE WORLD.</text>
+  <g fill="none" stroke="url(#line)" stroke-width="2">
+    <path d="M76 379h62l17-32 23 45 21-29h119"/>
+    <path d="M445 366l54-27 60 45 52-26m-112-19 5 61 55-16"/>
+    <path d="M798 397l35-60 57 25 34-41m-126 76h112m-77-60a71 71 0 0 1 74 11"/>
+    <path d="M1120 364h65m37 0h65m37 0h65"/>
+    <path d="M1504 334h112v59h-112zm18 19h76m-76 20h56"/>
+  </g>
+  <g fill="#101618" stroke="#c2aa7d" stroke-width="2">
+    <circle cx="445" cy="366" r="5"/><circle cx="499" cy="339" r="5"/><circle cx="504" cy="400" r="5"/><circle cx="559" cy="384" r="5"/><circle cx="611" cy="358" r="5"/>
+    <circle cx="833" cy="337" r="7"/><circle cx="890" cy="362" r="7"/>
+    <rect x="1100" y="351" width="25" height="25"/><rect x="1185" y="351" width="37" height="25"/><rect x="1287" y="351" width="37" height="25"/>
+  </g>
+  <g fill="#b7b6ac" font-family="monospace" font-size="16" letter-spacing="2">
+    <text x="76" y="474">01 / ENERGY</text><text x="425" y="474">02 / NETWORK</text><text x="774" y="474">03 / BODY</text><text x="1123" y="474">04 / WORKFLOW</text><text x="1472" y="474">05 / ORDER</text>
+  </g>
+</svg>
